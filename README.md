@@ -19,7 +19,7 @@ A lightweight, 100% autonomous cosmetics unlocker for the PC version of Among Us
 | **Consoles** (PlayStation, Xbox, Switch) | ❌ No | Closed platforms, proxy DLL methods cannot be used |
 
 ## 🚀 Installation
-1. Go to the ([**Releases**](https://github.com/) section and download the latest compiled `version.dll`.
+1. Go to the ([**Releases**](https://github.com/55C-ux/AmongUs-cosmetics-unlocker/releases/tag/v1) section and download the latest compiled `version.dll`.
 2. Place the `version.dll` file directly into your Among Us root directory (right next to `Among Us.exe`).
 3. Launch the game normally via your launcher. 
 
