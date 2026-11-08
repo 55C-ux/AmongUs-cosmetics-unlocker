@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Release" />
+    <BuildType Name="ReleaseVersion" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SkinsUnlocker/SkinsUnlocker.vcxproj" Id="1c1c8ef8-b230-446d-a870-b8f663608073">
+    <BuildType Solution="Debug|x64" Project="Release" />
+  </Project>
+</Solution>
